@@ -67,19 +67,4 @@ for num in range(2):
 phone = f'{2310}-{random.randint(100, 999)}-{random.randint(100, 999)}'
 print(phone)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#
