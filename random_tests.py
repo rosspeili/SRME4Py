@@ -1,4 +1,5 @@
-#here you can find a set of simple random generator programs
+#here you can find a list of simple random program examples
+#make sure you follow the aesthetic and be exmplanatory ;)
 
 #import random module
 
