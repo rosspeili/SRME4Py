@@ -1,5 +1,5 @@
 #here you can find a list of simple random program examples
-#make sure you follow the aesthetic and be exmplanatory ;)
+#make sure you follow the aesthetic and be explanatory ;)
 
 #import random module
 
